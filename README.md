@@ -2,7 +2,7 @@
 
 This repository archives the meeting minutes of the Mathematics Student Union (MSU) as of September 2019. 
 
-The LaTeX/PDF files are dated by reference to the date of the meeting.
+The LaTeX/PDF files in each folder are dated by reference to the date of the meeting.
 
 #### Resources
 
